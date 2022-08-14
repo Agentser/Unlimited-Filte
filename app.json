@@ -9,7 +9,7 @@
         "TroJanzHEX"
     ],
     "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/Agentser/Unlimited-Filter-Bot?organization=Agentser&organization=Agentser",
+    "repository": "https://github.com/Agentser/Unlimited-Filte?organization=Agentser&organization=Agentser",
     "success_url": "https://telegram.dog/TroJanzHEX",
     "env": {
         "WEBHOOK": {
